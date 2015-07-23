@@ -1,4 +1,5 @@
 # GestureControlledRobotArm
+![](http://raykamp.github.io/GestureControlledRobotArm/images/banner.jpg)
 
 ## What?
 This project explores human controlled robotics. A robotic arm is controlled in real-time using 5 finger gestures on a force-sensitive touch interface. 
